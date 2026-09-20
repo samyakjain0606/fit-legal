@@ -1,6 +1,6 @@
 # fit-legal
 
-Public legal documents for the fit. virtual try-on app.
+Public legal documents for the fit. virtual try-on app. The app's website is [fit.dugoutapps.live](https://fit.dugoutapps.live/).
 
 - [Privacy Policy (iOS)](https://samyakjain0606.github.io/fit-legal/ios-privacy-policy.html)
 - [Privacy Policy (Android)](https://samyakjain0606.github.io/fit-legal/privacy-policy.html)
